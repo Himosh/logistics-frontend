@@ -11,9 +11,6 @@ A modern, full-featured logistics and order management system built with React, 
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
-- [Available Scripts](#available-scripts)
-- [Key Functionalities](#key-functionalities)
-- [Design Patterns & Best Practices](#design-patterns--best-practices)
 
 ## ✨ Features
 
